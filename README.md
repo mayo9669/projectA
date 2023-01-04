@@ -3,9 +3,9 @@
 ### 2023/1/4
 
 
-1.aaa
-2.bbb
-3.ccc
+1. aaa
+2. bbb
+3. ccc
 
 - avas
 - asda
